@@ -6,5 +6,5 @@ cd vite-vanilla-webcomponents
 pnpm i
 pnpm run dev
 ```
-Open [http://localhost:3000/](http://localhost:3000/) in Firefox.
-Open developer console. Find the error described.
+Open [http://localhost:3000/](http://localhost:3000/) in Firefox or Chrome on MacOS 11.4.
+Open developer console. Find the errors described in https://github.com/vitejs/vite/issues/4115.
