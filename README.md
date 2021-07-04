@@ -1,4 +1,4 @@
-# Problem with vite dev in combination with`@webcomponents/webcomponentsjs`
+# Problem with vite dev in combination with `pnpm` and `@webcomponents/webcomponentsjs`
 ## Steps to reproduce
 ```
 git clone https://github.com/franktopel/vite-vanilla-webcomponents
